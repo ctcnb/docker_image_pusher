@@ -12,3 +12,4 @@ dreamacro/clash:latest
 linuxserver/qbittorrent:latest
 linuxserver/transmission:latest
 snowdreamtech/frpc:latest
+registry.cn-beijing.aliyuncs.com
