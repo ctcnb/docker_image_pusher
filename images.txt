@@ -13,3 +13,4 @@
 # linuxserver/transmission:latest
 # snowdreamtech/frpc:latest
 # jxxghp/moviepilot:latest
+iyuucn/iyuuplus-dev:latest
