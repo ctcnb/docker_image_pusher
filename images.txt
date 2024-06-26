@@ -1,15 +1,15 @@
-linuxserver/jackett:latest
-linuxserver/prowlarr:latest
-piaoyizy/openwrt-x86:latest
-alpine:latest
-linuxserver/emby:latest
-tailscale/tailscale:latest
-xhofe/alist:latest
-hsuyelin/nas-tools:latest
-laoyutang/clash-and-dashboard:latest
-messense/aliyundrive-webdav:latest
-dreamacro/clash:latest
-linuxserver/qbittorrent:latest
-linuxserver/transmission:latest
-snowdreamtech/frpc:latest
-jxxghp/moviepilot:latest
+# linuxserver/jackett:latest
+# linuxserver/prowlarr:latest
+# piaoyizy/openwrt-x86:latest
+# alpine:latest
+# linuxserver/emby:latest
+# tailscale/tailscale:latest
+# xhofe/alist:latest
+# hsuyelin/nas-tools:latest
+# laoyutang/clash-and-dashboard:latest
+# messense/aliyundrive-webdav:latest
+# dreamacro/clash:latest
+# linuxserver/qbittorrent:latest
+# linuxserver/transmission:latest
+# snowdreamtech/frpc:latest
+# jxxghp/moviepilot:latest
