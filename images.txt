@@ -14,4 +14,5 @@
 # snowdreamtech/frpc:latest
 # jxxghp/moviepilot:latest
 # iyuucn/iyuuplus-dev:latest
-funcman/115pc:latest
+# funcman/115pc:latest
+jlesage/firefox:latest
