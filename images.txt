@@ -17,5 +17,6 @@
 # funcman/115pc:latest
 # jlesage/firefox:latest
 # cloudnas/clouddrive2:latest
-ghcr.io/suwayomi/tachidesk:latest
-gotson/komga:latest
+# ghcr.io/suwayomi/tachidesk:latest
+# gotson/komga:latest
+lkw199711/smanga:latest
