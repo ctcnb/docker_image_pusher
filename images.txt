@@ -16,4 +16,6 @@
 # iyuucn/iyuuplus-dev:latest
 # funcman/115pc:latest
 # jlesage/firefox:latest
- cloudnas/clouddrive2:latest
+# cloudnas/clouddrive2:latest
+ghcr.io/suwayomi/tachidesk:latest
+gotson/komga:latest
